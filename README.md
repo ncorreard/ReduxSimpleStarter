@@ -1,3 +1,5 @@
+My version of it, with differrent branches for the different projects done in the udemy course.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
